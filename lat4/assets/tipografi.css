@@ -1,0 +1,59 @@
+@import url("https://use.typekit.net/pgf2jqu.css");
+
+h1 {
+	font-family: utopia-std-headline, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 7.53em;
+}
+
+h2 {
+	font-size: 2.7em;
+	margin-top: 5px;
+}
+.deck {
+	font-family: henriette, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: : 70px;
+	font-size: 1.4em;
+}
+
+h3 {
+	font-family: henriette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.4em;
+}
+h4 {
+	font-family: henriette, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 0.7em;
+
+}
+
+p {
+	font-family: henriette, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1em;
+	text-indent: 1.4em;
+}
+
+.quote {
+	font-family: utopia-std-headline, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.9em;
+}
+
+ol {
+	font-family: henriette, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1em;
+}
+
+
+
