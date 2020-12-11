@@ -1,0 +1,52 @@
+@import url("https://use.typekit.net/ycm4kqg.css");
+
+.sidenav a {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2em;
+}
+
+h1 {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 4em;
+}
+h2 {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2em;
+}
+
+h3 {
+	font-family: grenadine-mvb, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 1em;
+}
+p {
+	font-family: grenadine-mvb, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+ol {
+	font-family: grenadine-mvb, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+@media only screen and (max-width: 414px) {
+	.sidenav a {
+		font-size: 1.4em;
+	}
+h1{
+	font-size: 2em;
+}
+h3 {
+	font-size: 0.8em;
+}
+
+}

@@ -1,0 +1,43 @@
+@import url("https://use.typekit.net/ycm4kqg.css");
+
+.sidenav a {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2em;
+}
+
+
+h2 {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2.4em;
+}
+h3 {
+	font-family: casablanca-urw, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2em;
+}
+
+p {
+	font-family: grenadine-mvb, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 1.2em;
+}
+
+
+@media only screen and (max-width: 414px) {
+h2{
+	font-size: 
+}
+h3 {
+	font-size: 1.4em;
+}
+h4 {
+	font-size: 1em;
+}
+
+}

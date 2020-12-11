@@ -1,0 +1,85 @@
+main {
+	width: 90vw;
+}
+
+.btn {
+  background-color: #DEE67E; 
+  border: none; 
+  color: #596029;
+  padding: 12px 14px; 
+  cursor: pointer;
+  border-radius: 50%;
+  position: fixed;
+  margin-left: 15px;
+}
+
+.about {
+  padding-left: 171px;
+  padding-right: 131px;
+}
+
+h2 {
+	text-align: center;
+	color: #DEE67E;
+  padding-top: 168px;
+}
+h3 {
+	text-align: center;
+	margin-top: 30px;
+	color: #FFFFFF;
+}
+
+p {
+	text-align: left;
+	color: #FFFFFF;
+  text-indent: 17px;
+}
+
+body {
+  background-image: url('imageabout/bgabout.jpg');
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+button {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+.gambar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 20px 20px 20px 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+
+
+@media only screen and (max-width: 414px) {
+
+.about {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+h2 {
+	padding-top: 60px;
+}
+
+body {
+  background-image: url('imageabout/aboutmobile.png');
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.gambar {
+  margin-left: 30px;
+  width: 80%;
+}
+
+
+
+}
